@@ -142,11 +142,11 @@
 
 <br>
 <div align="center">
-  <a href="www.linkedin.com/in/tharaka-sewwandi" target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+  <a href="https://www.linkedin.com/in/tharaka-sewwandi/" target="_blank"  rel="">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
   </a>
-  <a href="sandu9823@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  <a href="sandu9823@gmail.com" target="top" rel="">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt=""/>
   </a>
 </div>
 
