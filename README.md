@@ -145,9 +145,10 @@
   <a href="https://www.linkedin.com/in/tharaka-sewwandi/" target="_blank"  rel="">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
   </a>
-  <a href="sandu9823@gmail.com" target="top" rel="">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt=""/>
-  </a>
+  <a href="mailto:sandu9823@gmail.com">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="Email"/>
+</a>
+
 </div>
 
 <br>
